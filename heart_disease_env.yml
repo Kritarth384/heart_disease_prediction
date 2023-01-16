@@ -1,0 +1,4 @@
+name: /home/kroman/Documents/bulldozer-price-detection-project/env
+channels:
+  - defaults
+prefix: /home/kroman/Documents/bulldozer-price-detection-project/env
