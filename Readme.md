@@ -1,4 +1,4 @@
-# EIPsInsight
+# Heart disease prediction
 
 ## Goal 
 
